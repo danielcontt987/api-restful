@@ -2,13 +2,13 @@
 
 # API RESTFUL
 
-Pude ser consumida de manera local usando:
+Pude ser consumida para la creacón de un CRUD de manera local usando:
 
 ```
 php artisan serve
 ```
 
-# Oh bien en con la siguente url
+# Oh bien en con la siguiente url
 
 ```
 https://api-restful-products.herokuapp.com/public/api/articulos
