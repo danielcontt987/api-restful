@@ -2,7 +2,7 @@
 
 # API RESTFUL
 
-Pude ser consumida para la creacón de un CRUD de manera local usando:
+Pude ser consumida para la creación de un CRUD de manera local usando:
 
 ```
 php artisan serve
